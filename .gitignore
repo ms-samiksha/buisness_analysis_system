@@ -66,3 +66,4 @@ test_*.py
 # Model cache (optional - can be large)
 models/
 *.pth
+desktop.ini
